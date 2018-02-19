@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Spectral+SC'););
+
+body {
+	margin: 0;
+	background-color: #CCC;
+}
+.container {
+	background-color: #FFFFFF;
+	margin: 0 auto;
+	max-width: 700px;
+	padding: 5%;
+}
+.header {
+	padding: 30px;
+	background-image: url(https://static.pexels.com/photos/163444/sport-treadmill-tor-route-163444.jpeg);
+	font-family: 'Spectral SC', serif;
+	background-size: 2000px 300px;
+}
+header h1 {
+	font-size: 52px;
+	color: white;
+	text-transform: uppercase;
+}
+header p {
+	color: #2c3e50;
+}
+header p, h1 {
+	color: ;
+	text-align: center;
+	font-weight: bold;
+}
+section {
+    padding: 0 5%;
+}
+.intro h2 {
+	color: #2ecc71;
+	margin-top: 60px;
+	font-size: 28px;
+	text-align: center;
+	font-family: 'Spectral SC', serif;
+}
+.intro p {
+	font-family: 'Montserrat', sans-serif;
+	text-align: justify;
+	padding: 5%;
+}
+.experience h3 {
+	color: #3498db;
+	margin-top: 40px;
+	font-size: 28px;
+	text-align: center;
+	font-family: 'Spectral SC', serif;
+}
+.experience ul {
+	font-family: 'Montserrat', sans-serif;
+	text-align: justify;
+	padding: 0 5% 0 10%;
+	list-style-type: square;
+}
+footer {
+	margin-top: 60px;
+	padding: 30px;
+	width: auto;
+	text-align: center;
+	font-weight: bold;
+	background-color: black;
+	font-family: 'Spectral SC', serif;
+}
+footer a {
+		text-decoration: none;
+		color: #2ecc71
+}
+footer a:hover {
+	color: #3498db;
+}
+footer p {
+	color: #f1c40f;
+}
+
